@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "موسیقی خفن گوش کنید"
+  },
+  "song": {
+    "comment_count": "{count} نظر"
+  },
+  "register": {
+    "accept": "با {0} موافقم",
+    "tos": "قوانین و مقررات سایت"
+  },
+  "manage": {
+    "my_songs": "آهنگ‌های من"
+  }
+}
